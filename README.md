@@ -10,7 +10,8 @@ This Project is Best for the beginners who want to learn Javascript projects wit
 
 Homepage consists of all 21 Calculator Stacked in single page with links to the indivisual pages of the calculator. Its fully responsive and its is index.html of the main page.
 
-<img src="screeenshot/home1.png" width="350" title="hover text"><img src="screeenshot/home2.png" width="350" title="hover text">
+<img src="https://user-images.githubusercontent.com/87291732/210179958-e2a093b1-d2dc-4589-8e46-9bcfb15cb24f.png" width="350" title="hover text">
+<img src="https://user-images.githubusercontent.com/87291732/210179969-b9b7973a-2632-4919-bdbe-67bd600ab6dc.png" width="350" title="hover text">
 
 ### demo: https://faisalkhan171101.github.io/SuperCalculator.github.io/
 
