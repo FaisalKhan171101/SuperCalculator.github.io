@@ -1,6 +1,6 @@
 # SuperCalculator - All in one Calculator
 
-SuperCalculator is a collection of 20 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library.
+SuperCalculator is a collection of 7 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library.
 
 This Project is Best for the beginners who want to learn Javascript projects without any frameworks or libraries. This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
 
@@ -8,7 +8,7 @@ This Project is Best for the beginners who want to learn Javascript projects wit
 
 ## Homepage
 
-Homepage consists of all 21 Calculator Stacked in single page with links to the indivisual pages of the calculator. Its fully responsive and its is index.html of the main page.
+Homepage consists of all 7 Calculator Stacked in single page with links to the indivisual pages of the calculator. Its fully responsive and its is index.html of the main page.
 
 <img src="https://user-images.githubusercontent.com/87291732/210179958-e2a093b1-d2dc-4589-8e46-9bcfb15cb24f.png" width="350" title="hover text">
 <img src="https://user-images.githubusercontent.com/87291732/210179969-b9b7973a-2632-4919-bdbe-67bd600ab6dc.png" width="350" title="hover text">
